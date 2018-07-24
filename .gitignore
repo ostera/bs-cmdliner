@@ -1,9 +1,12 @@
 _build
 _b0
 tmp
+lib/bs
+node_modules
 *~
 \.\#*
 \#*#
 *.byte
 *.native
+*.bs.js
 cmdliner.install
